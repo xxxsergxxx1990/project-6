@@ -358,11 +358,22 @@ height: 70px;
   text-align: center;
   letter-spacing: 0.03em;
 }
+.block-form{
+  display: block;
+  position: relative;
+}
 .text-form {
   padding-bottom: 4px;
 }
+.icon-form{
+  position: absolute;
+  left: 12px;
+  top: 50%;
+
+}
 .contact-modal-form {
   height: 40px;
+  
 }
 .textarea-modal-form {
   height: 120px;
